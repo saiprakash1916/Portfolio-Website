@@ -22,6 +22,5 @@ Icons: Lucide React
 
 
 # Setup
-
 npm install
 npm run dev
