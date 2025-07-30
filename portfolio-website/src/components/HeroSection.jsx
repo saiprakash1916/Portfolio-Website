@@ -1,5 +1,5 @@
 import { Download, Star } from 'lucide-react';
-import myPhoto from './assets/my-photo.jpg'; // Replace with your photo
+import myPhoto from '../assets/my-photo.jpg'; // Replace with your photo
 
 const HeroSection = () => {
     const onDownloadResume = () => {
